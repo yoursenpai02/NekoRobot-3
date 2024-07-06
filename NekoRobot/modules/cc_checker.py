@@ -3,7 +3,6 @@ import datetime
 
 from telethon.tl import functions, types
 from NekoRobot.events import register
-from NekoRobot import telethn
 
 
 async def is_register_admin(chat, user):
